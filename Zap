@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>ConsigZap</title>
+</head>
+<body>
+  <h1>ConsigZap</h1>
+  <p>Sistema no ar com sucesso 🚀</p>
+
+  <p>
+    <a href="https://wa.me/5599999999999">
+      Falar no WhatsApp
+    </a>
+  </p>
+</body>
+</html>
